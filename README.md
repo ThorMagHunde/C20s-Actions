@@ -1,5 +1,22 @@
-### Config.yml Help
-Go to Plugin_Data and search CustomNachrichten and then you can change it
+### Description
+Change for your Players on the Server the Full Join & Leave Messages!
 
-### Icon
-https://github.com/ThorMagHunde/CustomMessagePM4/blob/d9857f3d12a9ca12541f5b9c1bf94b209251b887/icon.png
+Please give us a Feedback!
+
+But it can also have bugs, if so, let us know!
+
+### Maked By
+Its maked Only From me!
+
+### API
+### API
+
+
+
+
+
+Work for The Api 4.0.0 to 4.21.0.
+
+The Plugin is only in DevBuild also exist bugs!
+
+
